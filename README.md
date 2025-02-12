@@ -47,7 +47,9 @@
 ## Tools & Technologies Used
 
 ➤ **Microsoft Excel** (Pivot Tables, Charts, Conditional Formatting, Formulas)
+
 ➤ **Data Cleaning Techniques** (Removing duplicates, handling missing values)
+
 ➤ **Visualization Techniques** (Dynamic dashboards, slicers, interactive charts)
 
 ## Future Enhancements
