@@ -7,8 +7,11 @@
 ## Objectives
 
 ➤ Evaluate call center efficiency by analyzing key metrics such as call volume, agent performance, and customer satisfaction.
+
 ➤ Identify peak call hours and optimize staffing levels accordingly.
+
 ➤ Assess customer satisfaction scores to enhance service quality.
+
 ➤ Create an interactive dashboard for quick decision-making.
 
 ## Dataset
@@ -41,7 +44,9 @@
 ## Key Insights
 
 ➤ Identified peak call hours, helping in workforce optimization.
+
 ➤ Recognized top-performing agents based on customer satisfaction and resolution efficiency.
+
 ➤ Highlighted common customer issues, assisting in proactive service improvements.
 
 ## Tools & Technologies Used
@@ -55,7 +60,9 @@
 ## Future Enhancements
 
 ➤ Automating data updates using Power Query.
+
 ➤ Integrating VBA for advanced automation and reporting.
+
 ➤ Expanding analysis to include predictive trends using regression models.
 
 ## Conclusion
